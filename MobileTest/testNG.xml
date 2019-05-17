@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Prototype test">
+<test name="TEST001">
+	<packages>
+		<package name="Mobile"/>
+	</packages>
+</test>
+</suite>
